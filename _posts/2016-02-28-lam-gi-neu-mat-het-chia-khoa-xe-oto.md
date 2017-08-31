@@ -6,7 +6,7 @@ category: ["chìa khóa ô tô"]
 tags: ["chìa khóa ô tô"]
 ---
 
-Nếu bị mất chìa khóa xe ô tô ([đọc đề tài này trước](/blog/2015/04/25/lam-gi-neu-xe-khong-the-khoi-dong)) thì làm chìa khóa thay thế thông thường cần ít nhất hai thành phần - Phôi chìa khóa đã được cắt khớp với ổ khóa và chip điện tử (Transponder) ([đọc thêm ở đây](/blog/2015/01/28/cong-nghe-chip-dien-tu-xe-hoi)) được lập trình (thì xe sẽ khởi động được).
+Nếu bị mất chìa khóa xe ô tô ([đọc đề tài này trước]({{ site.baseurl }}{% link _posts/2015-04-25-lam-gi-neu-xe-khong-the-khoi-dong.md %})) thì làm chìa khóa thay thế thông thường cần ít nhất hai thành phần - Phôi chìa khóa đã được cắt khớp với ổ khóa và chip điện tử (Transponder) ([đọc thêm ở đây]({{ site.baseurl }}{% link _posts/2015-01-28-cong-nghe-chip-dien-tu-xe-hoi.md %})) được lập trình (thì xe sẽ khởi động được).
 
 Thành phần thứ 3 có thể được lập trình là điều khiển từ xa, mặc dù đây thông thường chỉ là một tính năng sang trọng và không nhất thiết để có thể vào được xe và khởi động.
 

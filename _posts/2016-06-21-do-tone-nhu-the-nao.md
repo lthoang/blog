@@ -13,7 +13,7 @@ tags: [tutorial]
 
 Chuyên mục Guitar Hỏi và đáp [>>Bấm ở đây để xem thêm<<](https://www.facebook.com/notes/guitar-hcmus/guitar-h%E1%BB%8Fi-v%C3%A0-%C4%91%C3%A1p/1185908654774871)
 
-![Guitar fretboard](/images/20160621/13510810_1193013284064408_7870263028516391983_n.jpg)
+![Guitar fretboard]({{ site.baseurl }}{% link /images/20160621/13510810_1193013284064408_7870263028516391983_n.jpg %})
 
 ### Nhìn sao để biết bài hát đó thuộc tông gì?
 Tông là từ mượn của chữ Tone(giọng). 

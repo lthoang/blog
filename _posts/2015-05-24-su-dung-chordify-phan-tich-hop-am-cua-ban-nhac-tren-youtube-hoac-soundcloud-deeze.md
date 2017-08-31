@@ -6,6 +6,8 @@ category: guitar
 tags: [tutorial, chords, chordify]
 ---
 
+Đây là một công cụ online có thể giúp các bạn phân tích bản nhạc trên các kênh như Youtube, SoundCloud hoặc DEEZE.
+
 Hướng dẫn sử dụng chordify phân tích hợp âm của một bài nhạc trên youtube:
 
 + Bước 1: vào chordify ở đường dẫn sau

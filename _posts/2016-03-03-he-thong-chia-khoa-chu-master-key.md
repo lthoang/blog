@@ -10,7 +10,7 @@ _Hệ thống chìa khóa chủ (Master key)_ là hệ thống giúp bạn quả
 
 Ví dụ: Tòa nhà của bạn có 5 tầng, mỗi tầng 50 phòng, nghĩa là có 250 phòng với 250 chìa khóa khác nhau. Với hệ thống chìa khóa chủ, bạn có thể có 5 chìa khóa cho mỗi tầng, mỗi chìa khóa có thể mở được một phòng bất kì trên tầng đó. Bạn cũng có thể có 1 chìa khóa chủ, chìa này có thể mở được bất kì phòng nào trong tòa nhà trên. Bạn không phải cầm cả chùm chìa khóa rất bất tiện.
 
-<img src="/images/20160303/He-thong-chia-chu-master-key.png" width="100%" alt="Hệ thống chìa chủ master key">
+<img src="{{ site.baseurl }}{% link /images/20160303/He-thong-chia-chu-master-key.png %}" width="100%" alt="Hệ thống chìa chủ master key">
 
 Tiệm khóa Tiến Phát cung cấp dịch vụ triển khai hệ thống chìa khóa chủ.
 

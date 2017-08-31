@@ -8,7 +8,7 @@ tags: [tutorial]
 
 _(Cảnh báo: Bài viết mang góc nhìn chủ quan của tác giả, không phải kiến thức hàn lâm, nên cân nhắc trước khi xem :v :v)_
 
-**Biến tấu của một giai điệu** (theo người viết bài này) cũng là một giai điệu, biến thể từ giai điệu, vẫn thể hiện cho người nghe cảm nhận được là của giai điệu gốc. Biến tấu cho giai điệu thường được dùng cho những đoạn độc tấu, giang tấu, dạo nhạc của một bản nhạc. Đây là một cách phát triển ý tưởng giai điệu từ giai điệu gốc. Chi tiết có thể tham khảo thêm bí kíp thượng hạng sau: [Hướng dẫn nghe 12 biến tấu của Mozzart trong bài “Ah, vous dirai-je, Maman,” K. 265](/guitar/2015/10/11/huong-dan-nghe-12-bien-tau-cua-mozzart-trong-bai-ah-vous-dirai-je-maman-k-265/)
+**Biến tấu của một giai điệu** (theo người viết bài này) cũng là một giai điệu, biến thể từ giai điệu, vẫn thể hiện cho người nghe cảm nhận được là của giai điệu gốc. Biến tấu cho giai điệu thường được dùng cho những đoạn độc tấu, giang tấu, dạo nhạc của một bản nhạc. Đây là một cách phát triển ý tưởng giai điệu từ giai điệu gốc. Chi tiết có thể tham khảo thêm bí kíp thượng hạng sau: [Hướng dẫn nghe 12 biến tấu của Mozzart trong bài “Ah, vous dirai-je, Maman,” K. 265]({{ site.baseurl }}{% link _posts/2015-10-11-12-bien-tau-cua-mozzart-trong-bai-ah-vous-dirai-je-maman-k-265.md %})
 
 Cách mình hay dùng để soạn giai điệu biến tấu như sau:
 

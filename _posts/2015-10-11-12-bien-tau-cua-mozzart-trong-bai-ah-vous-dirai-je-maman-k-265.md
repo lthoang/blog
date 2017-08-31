@@ -19,79 +19,79 @@ Bản soạn cho chủ đề này được trình bày bên dưới là mỗi tr
 
 ![Chủ đề][abc-chu-de]
 
-[abc-chu-de]: /images/guitar/abc-bien-the-00.jpg
+[abc-chu-de]: {{ site.baseurl }}{% link /images/guitar/abc-bien-the-00.jpg %}
 
 **Biến thể 1:** Tay phải chơi giai điệu, nhưng nó được thêm bằng cách chạy nốt móc đôi.
 
 ![Biến thể 01][abc-bien-the-01]
 
-[abc-bien-the-01]: /images/guitar/abc-bien-the-01.jpg
+[abc-bien-the-01]: {{ site.baseurl }}{% link /images/guitar/abc-bien-the-01.jpg %}
 
 **Biến thể 2:** Bây giờ tay trái trình diễn chạy nốt móc đôi, nhưng giai điệu được nghe ở tay phải.
 
 ![Biến thể 02][abc-bien-the-02]
 
-[abc-bien-the-02]: /images/guitar/abc-bien-the-02.jpg
+[abc-bien-the-02]: {{ site.baseurl }}{% link /images/guitar/abc-bien-the-02.jpg %}
 
 **Biến thể 3:** Tay phải chơi giai điệu ở sơ đồ liên ba đơn.
 
 ![Biến thể 03][abc-bien-the-03]
 
-[abc-bien-the-03]: /images/guitar/abc-bien-the-03.jpg
+[abc-bien-the-03]: {{ site.baseurl }}{% link /images/guitar/abc-bien-the-03.jpg %}
 
 **Biến thể 4:** Bây giờ tay trái chơi sơ đồ liên ba đơn, nhưng giai điệu được nghe ở tay phải.
 
 ![Biến thể 04][abc-bien-the-04]
 
-[abc-bien-the-04]: /images/guitar/abc-bien-the-04.jpg
+[abc-bien-the-04]: {{ site.baseurl }}{% link /images/guitar/abc-bien-the-04.jpg %}
 
 **Biến thể 5:** Tay phải trình diễn giai điệu, nhưng chơi ở mẫu phách yếu (off-beat patterns)
 
 ![Biến thể 05][abc-bien-the-05]
 
-[abc-bien-the-05]: /images/guitar/abc-bien-the-05.jpg
+[abc-bien-the-05]: {{ site.baseurl }}{% link /images/guitar/abc-bien-the-05.jpg %}
 
 **Biến thể 6:** Giai điệu trong định dạng hợp âm được đặc trung ở phần tay phải trong khi tay trái chơi chạy nốt móc đôi.
 
 ![Biến thể 06][abc-bien-the-06]
 
-[abc-bien-the-06]: /images/guitar/abc-bien-the-06.jpg
+[abc-bien-the-06]: {{ site.baseurl }}{% link /images/guitar/abc-bien-the-06.jpg %}
 
 **Biến thể 7:** Giai điệu được nghe trong thang âm ở tay phải.
 
 ![Biến thể 07][abc-bien-the-07]
 
-[abc-bien-the-07]: /images/guitar/abc-bien-the-09.jpg
+[abc-bien-the-07]: {{ site.baseurl }}{% link /images/guitar/abc-bien-the-09.jpg %}
 
 **Biến thể 8:** Giai điệu được chơi ở tông đô thứ và đó là sự mô phỏng giữa tay trái va tay phải. 
 
 ![Biến thể 08][abc-bien-the-08]
 
-[abc-bien-the-08]: /images/guitar/abc-bien-the-08.jpg
+[abc-bien-the-08]: {{ site.baseurl }}{% link /images/guitar/abc-bien-the-08.jpg %}
 
 **Biến thể 9:** Giai điệu được chơi ngắt âm (staccato).
 
 ![Biến thể 09][abc-bien-the-09]
 
-[abc-bien-the-09]: /images/guitar/abc-bien-the-09.jpg
+[abc-bien-the-09]: {{ site.baseurl }}{% link /images/guitar/abc-bien-the-09.jpg %}
 
 **Biến thể 10:** Tay trái chơi giai điệu với tay phải thêm những nốt móc đôi.
 
 ![Biến thể 10][abc-bien-the-10]
 
-[abc-bien-the-10]: /images/guitar/abc-bien-the-10.jpg
+[abc-bien-the-10]: {{ site.baseurl }}{% link /images/guitar/abc-bien-the-10.jpg %}
 
 **Biến thể 11:** Tốc độ chậm và tay phải chơi giai điệu như một phong cách hát.
 
 ![Biến thể 11][abc-bien-the-11]
 
-[abc-bien-the-11]: /images/guitar/abc-bien-the-11.jpg
+[abc-bien-the-11]: {{ site.baseurl }}{% link /images/guitar/abc-bien-the-11.jpg %}
 
 **Biến thể 12:** tốc độ bắt đầu như “vật trang trí” giai điệu được đặc trưng bằng tay phải và tay trái chơi những nốt chạy nhanh.
 
 ![Biến thể 12][abc-bien-the-12]
 
-[abc-bien-the-12]: /images/guitar/abc-bien-the-12.jpg
+[abc-bien-the-12]: {{ site.baseurl }}{% link /images/guitar/abc-bien-the-12.jpg %}
 
 Người dịch: Lê Trung Hoàng
 

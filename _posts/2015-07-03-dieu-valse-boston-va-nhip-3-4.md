@@ -6,11 +6,13 @@ category: guitar
 tags: [tutorial]
 ---
 
+Đây là một số loại nhịp điệu căn bản nhất khi bắt đầu chơi đệm hát. Nhất là khi nhắc đến nhịp lẻ (VD: Nhịp 3/4, 3/8)
+
 **1. Điệu Valse:**
 
 ![Điệu valse][dieu-valse]
 
-[dieu-valse]: /images/guitar/dieu-valse.png
+[dieu-valse]: {{ site.baseurl }}{% link /images/guitar/dieu-valse.png %}
 
 * Đếm nhịp: **1** 2 3
 
@@ -27,7 +29,7 @@ Cách đánh có thể biến đổi tùy theo phong cách chơi của mỗi ng�
 
 ![Điệu boston][dieu-boston]
 
-[dieu-boston]: /images/guitar/dieu-boston.jpg
+[dieu-boston]: {{ site.baseurl }}{% link /images/guitar/dieu-boston.jpg %}
 
 * Đếm nhịp: **1 và 2 và 3 và** ; hoặc là **1 + 2 + 3 +**
 
@@ -57,7 +59,7 @@ _Lưu ý: Dấu "\|" dùng để ngăn cách ô nhịp này với ô nhịp khá
 
 ![Một số kiểu hình đệm ở nhịp 3/4][mot-so-kieu-hinh-dem-nhip-3-4]
 
-[mot-so-kieu-hinh-dem-nhip-3-4]: /images/guitar/mot-so-kieu-hinh-dem-nhip-3-4.png
+[mot-so-kieu-hinh-dem-nhip-3-4]: {{ site.baseurl }}{% link /images/guitar/mot-so-kieu-hinh-dem-nhip-3-4.png %}
 
 **4. Một số điệu khác hoặc biến thể chơi ở nhịp 3/4:**
 

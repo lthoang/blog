@@ -6,9 +6,9 @@ tags: ["chìa khóa ô tô"]
 description: ""
 ---
 
-![car key transponder chip](/images/20150128/transponder-key-programming.jpg)
-
 Công nghệ chip điện tử (Transponder) được sử dụng trong nhiều ứng dụng bảo mật liên quan tới khóa và hơn nữa đó là một tiêu chuẩn của hầu hết phương tiện cơ giới hiện nay.
+
+![car key transponder chip]({{ site.baseurl }}{% link /images/20150128/transponder-key-programming.jpg %})
 
 ## Nguyên tắc hoạt động?
 
@@ -20,6 +20,6 @@ Nếu nghi ngờ chip Transponder của bạn có thể bị lỗi thì hãy th�
 
 Nếu chìa khóa của xe bạn không có bộ phận để mở ra thì có thể bạn nghĩ rằng chìa khóa không có một con chip trong nó - điều này là không đúng sự thật. Vì chip Transponder không đòi hỏi pin và được cấp năng lượng bên ngoài do đó nó có thể được gắn trong khuôn nhựa của chìa khóa. Trên nhiều chìa khóa điều khiển từ xa mà chip transponder có thể được truy cập.
 
-![Chíp ở đâu](/images/20150128/image-34.jpg)
+![Chíp ở đâu]({{ site.baseurl }}{% link /images/20150128/image-34.jpg %})
 
 Bài gốc: [http://www.programyourkeys.com/Transponders.html](http://www.programyourkeys.com/Transponders.html)
