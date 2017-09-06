@@ -1,0 +1,9 @@
+{% assign items = site.news | sort: 'date' | reverse %}
+{% for item in items limit:10 %}
+<div class="news-item">
+  {% if item.highlight %}<span>Hightlight </span>{% endif %}
+  <span>{{ item.date | date: "%Y-%m-%d" }}: </span>
+  <span>{{ item.title }}</span>
+</div>
+{% endfor %}
+<div class="sites-embed-showing-results">Showing 10 items from page <a href="{{ site.baseurl }}{% link news.md %}">News. View more »</a></div>

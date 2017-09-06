@@ -1,0 +1,8 @@
+.news-item {
+  @include relative-font-size(0.75);
+  border-bottom: 1px solid #ccc;
+}
+
+.sites-embed-showing-results {
+  @include relative-font-size(0.7);
+}

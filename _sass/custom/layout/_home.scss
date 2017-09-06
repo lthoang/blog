@@ -1,0 +1,8 @@
+.home-section__header {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  @include relative-font-size(1);
+  border-bottom-width:1px;
+  border-bottom-style:dotted;
+  border-bottom-color:rgb(201,208,230);
+}

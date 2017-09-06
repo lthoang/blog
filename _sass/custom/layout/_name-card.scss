@@ -1,0 +1,11 @@
+.name-card__name {
+  @include relative-font-size(1.75);
+}
+
+.name-card__desc {
+  @include relative-font-size(1);
+}
+
+.name-card__contact {
+  @include relative-font-size(0.75);
+}

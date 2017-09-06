@@ -1,0 +1,17 @@
+{% if site.name_card %}
+<div class="name-card">
+  {% assign card = site.name_card %}
+  <div class="name-card__name">
+    {{ card.name }}
+  </div>
+  <div class="name-card__desc">
+    <b>{{ card.office }}</b><br/>
+    {{ card.position }}
+  </div>  
+  {% for contact in card.contacts %}
+  <div class="name-card__contact">
+    <b class="capitalize">{{ contact[0] }}: </b>{{ contact[1] }}
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
