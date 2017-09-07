@@ -1,16 +1,23 @@
 title: LTH's Blog
-email: trhoanglee@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+author: Lê Trung Hoàng
+description: >
   Blog của Lê Trung Hoàng.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://lthoang.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: trhoanglee
-github_username:  lthoang
+baseurl: "/blog"
+url: "https://lthoang.github.io"
+social:
+  github: lthoang
+  twitter: trhoanglee
+  linkedin: lthoang
+  facebook: trhoanglee
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 permalink: /:year/:month/:day/:title
 google_analytics: UA-70844403-1
+related_sites:
+  Home: //lthoang.github.io
+  Site map: /blog/sitemap.xml

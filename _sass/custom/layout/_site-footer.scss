@@ -11,7 +11,7 @@
   margin-bottom: $spacing-unit / 2;
 }
 
-.contact-list,
+.related-site-list,
 .social-media-list {
   list-style: none;
   margin-left: 0;
@@ -43,6 +43,13 @@
 .footer-col-3 {
   width: -webkit-calc(45% - (#{$spacing-unit} / 2));
   width:         calc(45% - (#{$spacing-unit} / 2));
+}
+
+.disclaimer {
+  margin-top: 0.25em;
+  color: #666;
+  @include relative-font-size(0.75);
+  text-align: center;
 }
 
 @include media-query($on-laptop) {
