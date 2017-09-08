@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Làm gì nếu xe của bạn không thể khởi động?"
-description: ""
 tags: ["chìa khóa ô tô"]
 categories: ["chìa khóa ô tô"]
 ---

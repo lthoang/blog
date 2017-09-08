@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Điệu Valse, Boston và nhịp 3/4"
-description: ""
+thumbnail: /images/collected/3_4_popular_music_rhythm.png
 category: guitar
 tags: [tutorial]
 ---

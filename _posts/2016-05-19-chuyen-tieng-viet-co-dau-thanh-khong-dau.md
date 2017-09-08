@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Chuyển tiếng Việt có sang chữ không dấu"
-description: ""
-category: 
-tags: []
+title: Chuyển tiếng Việt có dấu sang không dấu
+tags: 
+- programming
+- javascript
 ---
 
 Để hỗ trợ việc tìm kiếm đa ngôn ngữ, cụ thể đối với tiếng Việt, nếu chỉ so sánh chuỗi ký tự thông thường chúng ta sẽ gặp khó khăn trong việc tìm kiếm các kết quả là chuỗi ký tự có dấu. Việc chuyển đổi từ chuổi có dấu sang chuổi không dấu giúp chúng ta tìm kiếm được nhiều trường hợp hơn, và có thể bỏ qua một số lỗi chính tả vì sai dấu.

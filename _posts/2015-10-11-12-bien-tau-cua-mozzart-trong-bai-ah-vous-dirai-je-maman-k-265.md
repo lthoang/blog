@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "12 biến tấu của Mozzart trong bài “Ah, vous dirai-je, Maman,” K. 265"
-description: ""
 category: guitar
 tags: [tutorial]
 ---

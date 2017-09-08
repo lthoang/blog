@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Dò tone như thế nào?"
-description: ""
+thumbnail: /images/20160621/13510810_1193013284064408_7870263028516391983_n.jpg
 category: guitar
-tags: [tutorial]
+tags: tutorial
 ---
 
 Đây là phản hồi thứ 2 của mình trong chuyên mục Guitar hỏi và đáp trên trang [Guitar HCMUS](https://www.facebook.com/guitarhcmus).

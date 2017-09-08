@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Làm gì khi mất hết chìa khóa xe ô tô?"
-description: ""
 category: ["chìa khóa ô tô"]
 tags: ["chìa khóa ô tô"]
 ---

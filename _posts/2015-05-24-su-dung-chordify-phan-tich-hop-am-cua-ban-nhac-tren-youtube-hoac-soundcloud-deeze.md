@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sử dụng chordify phân tích hợp âm của một bài nhạc trên youtube (hoặc soundcloud, DEEZE)"
-description: ""
+thumbnail: /images/20150524/chordify-goi-ten-bon-mua.png
 category: guitar
 tags: [tutorial, chords, chordify]
 ---

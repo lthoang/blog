@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chơi guitar đệm hát căn bản"
-description: ""
+thumbnail: /images/20150712/10616228_791629844236389_52909401709335006_n.jpg
 category: guitar
 tags: [tutorial]
 ---

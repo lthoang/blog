@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Công nghệ chip điện tử xe hơi"
+thumbnail: /images/20150128/transponder-key-programming.jpg
 categories: ["chìa khóa ô tô"]
 tags: ["chìa khóa ô tô"]
-description: ""
 ---
 
 Công nghệ chip điện tử (Transponder) được sử dụng trong nhiều ứng dụng bảo mật liên quan tới khóa và hơn nữa đó là một tiêu chuẩn của hầu hết phương tiện cơ giới hiện nay.

@@ -1,0 +1,27 @@
+{% for post in include.posts %}
+<div class="row">
+  {% if post.thumbnail %}
+  <div class="col-md-3 col-sm-4">
+    <a class="post-link" href="{{ post.url | relative_url }}">
+      <img src="{{ site.baseurl }}{{ post.thumbnail }}" alt="{{ post.title }}">
+    </a>
+  </div>
+  <div class="col-md-9 col-sm-8">
+  {% else %}
+  <div class="col-md-12 col-sm-12">
+  {% endif %}
+    <h2 class="post-name">
+      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+    </h2>
+    <ul class="post-info">
+      {% assign date_format = site.date_format | default: "%Y-%m-%d" %}
+      <li><i class="fa fa-calendar"></i> <time datetime="{{ post.date }}">{{ post.date | date: date_format }}</time></li>
+      {% if post.tags %}
+      <li><i class="fa fa-tags"></i> {{ post.tags | join: ', ' }}</li>
+      {% endif %}
+    </ul>
+    <div class="post-item">{{ post.excerpt }}</div>
+  </div>
+</div>
+<hr class="post-sep">
+{% endfor %}

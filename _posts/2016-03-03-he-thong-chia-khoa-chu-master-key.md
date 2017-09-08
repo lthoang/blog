@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hệ thống chìa khóa chủ (master key)"
-description: ""
+thumbnail: /images/20160303/He-thong-chia-chu-master-key.png
 categories: ["master key"]
 tags: ["master key"]
 ---
