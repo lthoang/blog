@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<ol class="breadcrumb">
+  <li><a href="{{ baseurl }}">Home</a></li>
+  <li class="active"><a href="{{ page.permalink }}">Blog</a></li>
+</ol>
+{{ content }}
+<div class="archives">
+  {% include archives.html posts = site.posts %}
+</div>

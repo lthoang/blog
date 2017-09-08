@@ -74,5 +74,4 @@ Fa **Do** Sol **Re** La **Mi** Si
 Bản thân mình thì ngoài luyện nghe như nói ở trên thì mình còn sử dụng các thế bấm để suy nhanh ra tông của người hát. Chủ đề này thì chắc để khi nào có thời gian viết tiếp.
 
 > Tham khảo: 
-
 >- Âm giai, hợp âm và hợp âm rải [http://www.gosk.com/](http://www.gosk.com/)

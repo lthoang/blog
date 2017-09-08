@@ -2,6 +2,9 @@
 layout: default
 ---
 <div class="home">
+  <ol class="breadcrumb">
+    <li class="active"><a href="{{ baseurl }}">Home</a></li>
+  </ol>
   {{ content }}
   <div class="archives">
     {% include archives.html posts = site.posts %}

@@ -2,7 +2,6 @@
   <div class="container">
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
-
     <a class="site-title" href="{{ "/" | relative_url }}">
       {% if site.title_enabled != false %}
         {{ site.title | escape }}
@@ -34,5 +33,5 @@
         </div>
       </nav>
     {% endif %}
-  </div>
+    </div>
 </header>

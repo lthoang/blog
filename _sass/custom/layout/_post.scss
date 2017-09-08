@@ -4,17 +4,25 @@
 }
 
 .post-name {
-  @include relative-font-size(1.25);
+  @include relative-font-size(1.75);
 }
 
 .post-info {
   list-style: none;
   margin: 0;
-  @include relative-font-size(0.85);
+  @include relative-font-size(1);
 }
 
 .post-info li {
   display: inline-block;
+}
+
+.post-item {
+  @include relative-font-size(1.25);
+}
+
+.post-sep {
+  margin: 1em 0;
 }
 
 .post-title {
@@ -29,6 +37,7 @@
 
 .post-content {
   margin-bottom: $spacing-unit;
+  @include relative-font-size(1.25);
 
   h2 {
     @include relative-font-size(2);
