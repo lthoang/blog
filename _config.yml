@@ -20,4 +20,6 @@ permalink: /:title
 google_analytics: UA-70844403-1
 related_sites:
   Home: //lthoang.github.io
+  About: //lthoang.github.io/bio
+  Contact: //lthoang.github.io/contact
   Site map: /blog/sitemap.xml
