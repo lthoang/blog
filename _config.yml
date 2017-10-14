@@ -16,7 +16,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-permalink: /:year/:month/:day/:title
+permalink: /:title
 google_analytics: UA-70844403-1
 related_sites:
   Home: //lthoang.github.io
